@@ -2,9 +2,11 @@
   "name": "swapi-frontend-developer-test",
   "version": "1.0.0",
   "description": "Using either Vue (preferably) or React framework, build a star wars directory using [SWAPI](https://swapi.co/), which has all api endpoints required for the application.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "dev": "webpack-dev-server --open --hot",
+    "start": "webpack && node server.js",
+    "build": "webpack",
+    "start:dev": "webpack-dev-server --open --hot",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
