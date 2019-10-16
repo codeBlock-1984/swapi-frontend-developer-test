@@ -1,4 +1,7 @@
-# Front-end Developer Test
+# [Star Wars Gallery](https://star-wars-gallery.herokuapp.com)
+A gallery for the Star Wars movie. Click [here](https://star-wars-gallery.herokuapp.com) to see
+
+## Front-end Developer Test
 Using either Vue (preferably) or React framework, build a star wars directory using [SWAPI](https://swapi.co/), which has all api endpoints required for the application.
 
 ## Website layout
